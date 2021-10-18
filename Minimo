@@ -5,10 +5,7 @@ syms x
 disp ('la barra de margarina');
 %rango de 0.1 en o.1
 r=0:0.1:1;
+
 %valor de funcion
 ar =2*x^2+432 / x;
-%funcion al plotear
-y =2*x^2+432 / x
-f =2*x^2+432 / x
-ezplot(f)
 
