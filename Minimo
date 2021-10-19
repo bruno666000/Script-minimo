@@ -1,4 +1,4 @@
-%limpiar variables   
+%limpiar variables
 clear all
 syms x 
 %la lata para envasar aceite.
@@ -9,7 +9,7 @@ r=0:0.1:1;
 %valor de funcion
 ar =2*x^2+432 / x;
 
-%funcion al plotear
+%fumcion al plotear
 y=2*x^2+432/x
 
 f=2*x^2+432/x
